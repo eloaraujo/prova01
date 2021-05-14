@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#logo {
+    width: 120px;
+}
+
+.imageFormat {
+    width: 300px;
+    height: 300px;
+}
+
+.star {
+    width: 30px;
+}
+
+.avaliaçao {
+    width: 20px;
+    height: 20px;
+}
+
+#valor {
+    color: dodgerblue;
+}
